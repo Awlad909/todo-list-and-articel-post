@@ -1,0 +1,19 @@
+.header{
+    height: 200px;
+    width: 100%;
+    background-color: #E9EEF6;
+    margin: auto;
+}
+.header h1{
+    padding-top: 30px;
+}
+.header button{
+    margin-top: 30px;
+}
+.task-container{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    /* background-color: #F6F7F8; */
+    padding: 40px 100px;
+}
